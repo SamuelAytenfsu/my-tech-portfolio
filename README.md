@@ -13,12 +13,21 @@ Professional Data Engineering, AI Orchestration, and Cloud Architecture hub. Thi
 
 ---
 
-## 🛠️ Tech Stack & Focus
-*   **Data Engineering:** Microsoft Fabric, Lakehouse, Medallion Architecture, Azure Synapse, ADF.
-*   **AI Engineering:** Generative AI, RAG Workflows, Azure AI Services.
-*   **Governance:** Microsoft Purview, SC-401 Standards.
-*   **Tooling:** MkDocs (Material Theme), Git/GitHub, PySpark.
+## 🛠️ Tech Stack & Professional Focus
 
+### 🤖 AI Engineering
+* **Core Skills:** Agentic RAG, Vector Embeddings, LLMs, Prompt Engineering, Tool Calling, Semantic Kernel, MLflow.
+* **Platforms:** Azure AI Search.
+
+### 🏗️ Data Engineering
+* **Core Skills:** Medallion Architecture, Delta Lake, PySpark, CI/CD.
+* **Platforms:** ADF/Pipelines, Databricks, Snowflake, Synapse, Fabric Warehouse.
+
+### 📜 Certification Competencies
+* **DP-600 (Fabric Analytics Engineer):** Lakehouse, OneLake, Direct Lake, Delta Lake, DAX, Purview, CI/CD, Cost Optimization, RLS.
+* **DP-700 (RTI/KQL Specialist):** KQL, Eventhouse/RTI, Semantic Models, Copilot, Azure AI Search, Direct Lake.
+* **DP-800 (BI Analyst):** DAX, Semantic Models, Copilot, Purview, Cost Optimization, RLS.
+* **DP-750 (Governance/Dataverse):** Dataverse, Purview, RLS.
 ---
 
 ## 💻 Development Guide

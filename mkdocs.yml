@@ -11,14 +11,41 @@ theme:
 
 nav:
   - Home: index.md
-  - Skills Comparison: comparisons.md
-  - Projects:
-      - Sales Forecasting: projects/sales.md
+  - Projects: projects/sales.md
   - Certifications: certifications.md
   - Technical Notes:
-      - Fabric Lakehouse: Notes/fabric-lakehouse.md
-      - Semantic Model: "Notes/Semantic Model (Power BI  Fabric).md"
-      - Vector Embedding: Notes/Vector Embedding.md
+      - Data Engineering:
+          - Medallion Architecture: Notes/Medallion Architecture.md
+          - Fabric Lakehouse: Notes/fabric-lakehouse.md
+          - OneLake: Notes/OneLake.md
+          - Delta Lake: Notes/Delta Lake - Delta Format.md
+          - PySpark: Notes/PySpark  Apache Spark.md
+          - Snowflake: Notes/Snowflake.md
+          - Data Migration: Notes/data-migration.md
+          - Pipelines: Notes/Azure Data Factory (ADF) Fabric Data Pipeline.md
+          - Warehouse: Notes/Fabric Warehouse (SQL Analytics Endpoint).md
+          - CI/CD: Notes/CICD for Data Pipelines.md
+      - AI & Machine Learning:
+          - LLM Concepts: Notes/LLM (Large Language Model).md
+          - Prompt Engineering: Notes/Prompt Engineering.md
+          - Vector Embedding: Notes/Vector Embedding.md
+          - Tool Calling: Notes/Tool Calling  Function Calling.md
+          - Semantic Kernel & LangChain: Notes/Semantic Kernel LangChain.md
+          - MLflow: Notes/MLflow.md
+      - BI & Analytics:
+          - Direct Lake Mode: Notes/Direct Lake Mode.md
+          - Semantic Models & DAX: Notes/Power BI DAX (Data Analysis Expressions).md
+          - Semantic Model Fabric: Notes/Semantic Model (Power BI  Fabric).md
+          - KQL & RTI: Notes/KQL (Kusto Query Language).md
+          - Eventhouse: Notes/Eventhouse Real-Time Intelligence (RTI).md
+          - Copilot: Notes/Copilot for Power BI  Fabric.md
+      - Governance & Security:
+          - Purview: Notes/Microsoft Purview  Data Governance.md
+          - Dataverse: Notes/Dataverse.md
+          - Row-Level Security: Notes/Row-Level Security (RLS).md
+          - Cost Optimization: Notes/Cost Optimization in Fabric Azure.md
+          - Synapse: Notes/Azure Synapse Analytics.md
+          - Databricks: Notes/Azure Databricks.md
 
 plugins:
   - search:

@@ -15,6 +15,10 @@ nav:
   - Projects:
       - Sales Forecasting: projects/sales.md
   - Certifications: certifications.md
+  - Technical Notes:
+      - Fabric Lakehouse: Notes/fabric-lakehouse.md
+      - Semantic Model: "Notes/Semantic Model (Power BI  Fabric).md"
+      - Vector Embedding: Notes/Vector Embedding.md
 
 plugins:
   - search:
